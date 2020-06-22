@@ -3989,11 +3989,8 @@ button.mfp-close {
   margin-bottom: 90px;
 }
 
-.modal__form {
-  display: none;
-}
-
 .modal__thanks {
+  display: none;
   padding-top: 176px;
   text-align: center;
   background-image: url("../img/svg/catalog/modal-background.svg");
