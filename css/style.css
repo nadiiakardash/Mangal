@@ -4845,15 +4845,11 @@ button.mfp-close {
   position: relative;
   margin-top: -293px;
   height: 564px;
-  background-image: url("../img/main/background/map.jpg");
+  background-image: url("../img/main/background/map.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
-}
-
-.webp .map {
-  background-image: url("../img/main/background/map.webp");
 }
 
 .map__link {
@@ -7324,7 +7320,7 @@ button.mfp-close {
         -ms-flex-align: center;
             align-items: center;
     margin-top: 0;
-    background-position: left 38% top;
+    background-position: left 48% top -72px;
   }
 
   .map__link {
