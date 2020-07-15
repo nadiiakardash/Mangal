@@ -4889,6 +4889,7 @@ button.mfp-close {
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: bottom left;
+  overflow: hidden;
 }
 
 .webp .main-catalog {
@@ -5761,6 +5762,16 @@ button.mfp-close {
 
   .catalog__advantages {
     margin-bottom: 65px;
+  }
+}
+
+@media (max-width: 1439px) {
+  .order__number {
+    margin-right: 50px;
+  }
+
+  .order__description-box {
+    width: 53%;
   }
 }
 
