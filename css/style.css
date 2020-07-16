@@ -3409,6 +3409,10 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 }
 
 .heading__link {
+  background-color: transparent;
+}
+
+.heading__link {
   outline: none;
 }
 
